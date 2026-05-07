@@ -28,7 +28,7 @@
 
 ## Home Page
 
-<img width="100%" alt="App Screenshot" src="<img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/d5167e7c-8c9a-405d-9530-33986e93e8cb" />
+<img width="1919" height="813" alt="image" src="https://github.com/user-attachments/assets/d5167e7c-8c9a-405d-9530-33986e93e8cb" />
 ">
 
 ---
