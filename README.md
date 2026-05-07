@@ -143,7 +143,7 @@ Example:
 
 # 👨‍💻 Author
 
-Developed with ❤️ by Your Name
+Adil Shafique
 
 ---
 
